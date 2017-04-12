@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is **``graf``**, software for counting cells in FISH microscopy images. **``graf``** uses image processing techniques such as Canny edge detection and watershed thresholding along with connected component analysis to identify/count these cells. This avoids the problem of having to train a learning algorithm, which can waste lab time and also be clunky to use.
+This is **``graf``**, software for counting single molecules of mRNA in smFISH microscopy images. **``graf``** uses image processing techniques such as Canny edge detection and watershed thresholding along with connected component analysis to identify/count these cells. This avoids the problem of having to train a learning algorithm, which can waste lab time and also be clunky to use.
 
 ## Usage
 
